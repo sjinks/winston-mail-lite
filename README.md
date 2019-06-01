@@ -6,9 +6,7 @@
 [![Build Status](https://scrutinizer-ci.com/g/sjinks/winston-mail-lite/badges/build.png?b=master)](https://scrutinizer-ci.com/g/sjinks/winston-mail-lite/build-status/master)
 [![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg?style=flat-square)](https://github.com/Flet/semistandard)
 
-Yet another email transport for Winston
-
-A email transport for [winston](https://github.com/flatiron/winston).
+Yet another email transport for [winston](https://github.com/flatiron/winston).
 
 ## Installation
 
