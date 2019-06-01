@@ -1,5 +1,6 @@
 # winston-mail-lite
 
+![NPM](https://img.shields.io/npm/v/winston-mail-lite.svg)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sjinks/winston-mail-lite/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sjinks/winston-mail-lite/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/sjinks/winston-mail-lite/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/sjinks/winston-mail-lite/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/sjinks/winston-mail-lite/badges/build.png?b=master)](https://scrutinizer-ci.com/g/sjinks/winston-mail-lite/build-status/master)
