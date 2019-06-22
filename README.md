@@ -32,7 +32,7 @@ Options specific to `winston-mail-lite` are the following:
   * `messageOptions`: options passed to [`transport.sendMail()`](https://nodemailer.com/message/). The most common options are:
     * `from`: email address of the sender; if nothing is provided, defaults to `winston@[server-host-name]`, where `server-host-name` is what `os.hostname()` returns;
     * `to`: email address of the recipient; this option is **required**;
-    * `subject`: the subject of the email; defaults to `Winston Message`. Supports `{{ level }}` and `{{ message }}` placeholders (loge severity and the first line of the message respectively).
+    * `subject`: the subject of the email; defaults to `Winston Message`. Supports `{{ level }}` and `{{ message }}` placeholders (logs severity and the first line of the message respectively).
 
 ## Differences to winston-mail
 
