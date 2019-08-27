@@ -31,14 +31,14 @@
   "homepage": "https://github.com/sjinks/winston-mail-lite#readme",
   "devDependencies": {
     "nyc": "^14.1.1",
-    "semistandard": "*",
-    "tape": "^4.10.2",
+    "semistandard": "^14.0.1",
+    "tape": "^4.11.0",
     "winston": "^3.2.1"
   },
   "peerDependencies": {
     "winston": ">=3"
   },
   "dependencies": {
-    "nodemailer": "^6.2.1"
+    "nodemailer": "^6.3.0"
   }
 }
