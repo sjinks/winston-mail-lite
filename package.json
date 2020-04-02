@@ -1,6 +1,6 @@
 {
   "name": "winston-mail-lite",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "An email transport for winston",
   "main": "./lib/index.js",
   "directories": {
@@ -30,15 +30,15 @@
   },
   "homepage": "https://github.com/sjinks/winston-mail-lite#readme",
   "devDependencies": {
-    "nyc": "^14.1.1",
+    "nyc": "^15.0.0",
     "semistandard": "^14.2.0",
-    "tape": "^4.11.0",
+    "tape": "^4.13.2",
     "winston": "^3.2.1"
   },
   "peerDependencies": {
     "winston": ">=3"
   },
   "dependencies": {
-    "nodemailer": "^6.3.0"
+    "nodemailer": "^6.4.6"
   }
 }
