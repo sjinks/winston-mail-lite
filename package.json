@@ -30,15 +30,15 @@
   },
   "homepage": "https://github.com/sjinks/winston-mail-lite#readme",
   "devDependencies": {
-    "nyc": "^15.0.0",
-    "semistandard": "^14.2.0",
-    "tape": "^4.13.2",
-    "winston": "^3.2.1"
+    "nyc": "^15.1.0",
+    "semistandard": "^14.2.2",
+    "tape": "^4.13.3",
+    "winston": "^3.3.3"
   },
   "peerDependencies": {
     "winston": ">=3"
   },
   "dependencies": {
-    "nodemailer": "^6.4.6"
+    "nodemailer": "^6.4.10"
   }
 }
