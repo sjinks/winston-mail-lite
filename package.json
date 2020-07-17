@@ -1,6 +1,6 @@
 {
   "name": "winston-mail-lite",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "An email transport for winston",
   "main": "./lib/index.js",
   "directories": {
@@ -30,6 +30,7 @@
   },
   "homepage": "https://github.com/sjinks/winston-mail-lite#readme",
   "devDependencies": {
+    "eslint-config-standard": "^13.0.1",
     "nyc": "^15.1.0",
     "semistandard": "^14.2.2",
     "tape": "^4.13.3",
