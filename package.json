@@ -32,7 +32,7 @@
   "devDependencies": {
     "eslint-config-standard": "^13.0.1",
     "nyc": "^15.1.0",
-    "semistandard": "^14.2.2",
+    "semistandard": "^14.2.3",
     "tape": "^5.0.1",
     "winston": "^3.3.3"
   },
