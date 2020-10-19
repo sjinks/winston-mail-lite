@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "semistandard && tape ./test/test-*.js",
+    "test": "tape ./test/test-*.js",
     "coverage": "nyc --reporter=lcov --reporter=text-summary tape ./test/test-*.js",
     "covclover": "nyc --reporter=clover tape ./test/test-*.js"
   },
