@@ -1,6 +1,6 @@
 {
   "name": "winston-mail-lite",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "An email transport for winston",
   "main": "./lib/index.js",
   "directories": {
