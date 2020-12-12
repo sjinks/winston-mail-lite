@@ -38,6 +38,6 @@
     "winston": ">=3"
   },
   "dependencies": {
-    "nodemailer": "^6.4.16"
+    "nodemailer": "^6.4.17"
   }
 }
