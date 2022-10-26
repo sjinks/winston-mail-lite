@@ -2,17 +2,13 @@
 
 ![Build and Test CI](https://github.com/sjinks/winston-mail-lite/workflows/Build%20and%20Test%20CI/badge.svg)
 ![NPM](https://img.shields.io/npm/v/winston-mail-lite.svg)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sjinks/winston-mail-lite/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sjinks/winston-mail-lite/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/sjinks/winston-mail-lite/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/sjinks/winston-mail-lite/?branch=master)
-[![Build Status](https://scrutinizer-ci.com/g/sjinks/winston-mail-lite/badges/build.png?b=master)](https://scrutinizer-ci.com/g/sjinks/winston-mail-lite/build-status/master)
 
 Yet another email transport for [winston](https://github.com/flatiron/winston).
 
 ## Installation
 
 ```sh
-$ npm install winston
-$ npm install winston-mail-lite
+$ npm install winston winston-mail-lite
 ```
 
 ## Usage
