@@ -39,5 +39,9 @@
   },
   "dependencies": {
     "nodemailer": "^6.4.17"
+  },
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
   }
 }
