@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/sjinks/winston-mail-lite#readme",
   "devDependencies": {
-    "nyc": "^15.1.0",
+    "nyc": "^17.0.0",
     "tape": "^5.1.1",
     "winston": "^3.3.3"
   },
