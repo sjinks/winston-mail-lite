@@ -22,6 +22,9 @@
     "email",
     "transport"
   ],
+  "files": [
+    "lib/index.js"
+  ],
   "author": "Volodymyr Kolesnykov <volodymyr@wildwolf.name>",
   "license": "MIT",
   "bugs": {
