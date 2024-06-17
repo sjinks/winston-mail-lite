@@ -7,9 +7,8 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "tape ./test/test-*.js",
-    "coverage": "nyc --reporter=lcov --reporter=text-summary tape ./test/test-*.js",
-    "covclover": "nyc --reporter=clover tape ./test/test-*.js"
+    "test": "node --test-reporter=spec --test-reporter-destination=stdout --test-reporter=node-reporter-gha --test-reporter-destination=stdout --test",
+    "test:coverage": "node --test --experimental-test-coverage"
   },
   "repository": {
     "type": "git",
@@ -30,8 +29,7 @@
   },
   "homepage": "https://github.com/sjinks/winston-mail-lite#readme",
   "devDependencies": {
-    "nyc": "^17.0.0",
-    "tape": "^5.1.1",
+    "node-reporter-gha": "^2.0.2",
     "winston": "^3.3.3"
   },
   "peerDependencies": {
