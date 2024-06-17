@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "node --test",
+    "test": "node --test-reporter=spec --test-reporter-destination=stdout --test-reporter=node-reporter-gha --test-reporter-destination=stdout --test",
     "test:coverage": "node --test --experimental-test-coverage"
   },
   "repository": {
@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/sjinks/winston-mail-lite#readme",
   "devDependencies": {
+    "node-reporter-gha": "^2.0.2",
     "winston": "^3.3.3"
   },
   "peerDependencies": {
