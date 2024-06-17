@@ -1,6 +1,6 @@
 # winston-mail-lite
 
-![Build and Test CI](https://github.com/sjinks/winston-mail-lite/workflows/Build%20and%20Test%20CI/badge.svg)
+[![Build and Test](https://github.com/sjinks/winston-mail-lite/actions/workflows/build.yml/badge.svg)](https://github.com/sjinks/winston-mail-lite/actions/workflows/build.yml)
 ![NPM](https://img.shields.io/npm/v/winston-mail-lite.svg)
 
 Yet another email transport for [winston](https://github.com/flatiron/winston).
