@@ -39,7 +39,7 @@
     "winston": ">=3"
   },
   "dependencies": {
-    "nodemailer": "^6.0.0 || ^7.0.0"
+    "nodemailer": "^8.0.0"
   },
   "publishConfig": {
     "access": "public",
